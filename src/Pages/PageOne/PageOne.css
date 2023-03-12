@@ -1,0 +1,11 @@
+.color-box{
+    display: flex;
+    height: 300px;
+    width: 100%;
+}
+.color-box> div{
+   margin: 10px;
+   background-color: red;
+   height: 300px;
+   width: 300px;
+}
